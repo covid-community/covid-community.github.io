@@ -73,4 +73,16 @@ p {
   padding-bottom: 2%;
 }
 
+.form-link
+{
+    font-family:'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.form-div
+{
+    padding-bottom:5%;
+    padding-left:5%;
+    padding-right:5%;
+}
 /* MODAL */
